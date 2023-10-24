@@ -1,21 +1,18 @@
-<div align="center">
-<img src="https://tenor.com/bkJqd.gif" align="center" style="height: 20%" width="100%"/>
-</div>  
-  
-</br>
-</br>
- <div align="center">Hey I'm Nikita Reddy😼, a freelance Data analyst and a front end developer.</div> 
- 
- </br>
- </br>
 
-👾 I’m currently working on [Machine learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA__branded_FTCOF__arte&utm_content=B2C&campaignid=18216928764&adgroupid=141296025792&device=c&keyword=coursera%20machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=619458216884&hide_mobile_promo)  
-  <img align="right" alt="luffy" width = "400" src="https://i.pinimg.com/originals/3d/ff/33/3dff3392aa38f17cd142c5d28a23bf67.gif">
-  
+ <div align="center"> 
+   <h1> Heya, I'm Nikita Reddyヽ(°〇°)ﾉ </h1>
+   <h4> A Freelance Data analyst and Full-Stack Developer </h4> </div> 
+ <br>
+ </br>
+ </br>
+ <img align="right" alt="luffy" width = "300" src="https://media.giphy.com/media/l3mZsZK6buIJA3Zv2/giphy.gif">
  
+👾 I’m currently working on [Machine learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA__branded_FTCOF__arte&utm_content=B2C&campaignid=18216928764&adgroupid=141296025792&device=c&keyword=coursera%20machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=619458216884&hide_mobile_promo) 
+  
+
 👾 Ask me about anything related to Python and SQL  
   
-👾 Anime,food and Coding >>> 
+👾 Core Interests: Anime+ Gaming ;)
  </br>
  </br>
 <br/>  
@@ -86,7 +83,7 @@
 <a href="https://github.com/Nikitaatf" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Nikita Reddy" target="_blank">
+<a href="https://www.linkedin.com/in/n1kye/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/itsnicosikee " target="_blank">
@@ -112,7 +109,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
