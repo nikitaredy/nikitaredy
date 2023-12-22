@@ -1,4 +1,6 @@
 
+![Logo](https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif)
+
  <div align="center"> 
    <h1> Heya, I'm Nikita Reddyヽ(°〇°)ﾉ </h1>
    <h4> A Freelance Data analyst and Full-Stack Developer </h4> </div> 
@@ -100,11 +102,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nikitaredy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
 ## Recent Blog Posts  
