@@ -13,11 +13,7 @@
   
 
 👾 Ask me about anything related to Python and SQL  
-  
-👾 Core Interests: Anime+ Gaming ;)
  </br>
- </br>
-<br/>  
 
 
 ## My Skill Set  
