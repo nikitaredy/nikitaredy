@@ -2,7 +2,7 @@
 ![Logo](https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif)
 
  <div align="center"> 
-   <h1> Heya, I'm Nikita Reddyヽ(°〇°)ﾉ </h1>
+   <h1> Heya, I'm B Nikita Reddyヽ(°〇°)ﾉ </h1>
    <h4> A Freelance Data analyst and Full-Stack Developer </h4> </div> 
  <br>
  </br>
