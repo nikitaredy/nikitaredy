@@ -3,7 +3,7 @@
 
  <div align="center"> 
    <h1> Heya, I'm B Nikita Reddyヽ(°〇°)ﾉ </h1>
-   <h4> A Freelance Data analyst and Full-Stack Developer </h4> </div> 
+   <h4> A Freelance Data analyst </h4> </div> 
  <br>
  </br>
  </br>
