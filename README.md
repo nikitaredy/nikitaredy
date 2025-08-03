@@ -1,15 +1,17 @@
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/88/14/59/881459b227bd3f1dd264429f00d4576e.gif" width="700" >
-</p>
-
-
- <div align="center"> 
+<div align="center"> 
    <h1> Heya, I'm Nikita Reddyヽ(°〇°)ﾉ </h1>
    <h4> code coffee create </h4> </div> 
  <br>
  </br>
  </br>
+ 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/88/14/59/881459b227bd3f1dd264429f00d4576e.gif" width="700" >
+</p>
+
+
+ 
  <img align="right" alt="luffy" width = "300" src="https://media.giphy.com/media/l3mZsZK6buIJA3Zv2/giphy.gif">
  
 👾 I’m currently working on [Machine learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA__branded_FTCOF__arte&utm_content=B2C&campaignid=18216928764&adgroupid=141296025792&device=c&keyword=coursera%20machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=619458216884&hide_mobile_promo) 
