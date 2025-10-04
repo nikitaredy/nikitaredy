@@ -14,10 +14,12 @@
  <br>
  <br>
  
-👾 I’m currently working on [Machine learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA__branded_FTCOF__arte&utm_content=B2C&campaignid=18216928764&adgroupid=141296025792&device=c&keyword=coursera%20machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=619458216884&hide_mobile_promo) 
+👾 I’m currently working on Deep learning
   
 
 👾 Ask me about anything related to Python and SQL  
+
+👾 Reach me out [nikitareddywork@gmail.com](nikitareddywork@gmail.com)  
  </br>
 
 
