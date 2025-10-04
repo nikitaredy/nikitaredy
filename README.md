@@ -6,8 +6,15 @@
  </br>
  </br>
  
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=95279348360194582" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
+<div style="max-width:720px;margin:0 auto;">
+  <div style="position:relative;padding-top:calc(354/450*100%);overflow:hidden;border-radius:8px;">
+    <iframe
+      src="https://assets.pinterest.com/ext/embed.html?id=95279348360194582"
+      loading="lazy" scrolling="no" title="Pinterest embed"
+      style="position:absolute;inset:0;width:100%;height:100%;border:0;">
+    </iframe>
+  </div>
+</div>
  
  <img align="right" alt="luffy" width = "300" src="https://media.giphy.com/media/l3mZsZK6buIJA3Zv2/giphy.gif">
  
