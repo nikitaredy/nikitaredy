@@ -5,17 +5,9 @@
  <br>
  </br>
  </br>
- 
-<div style="max-width:720px;margin:0 auto;">
-  <div style="position:relative;padding-top:calc(354/450*100%);overflow:hidden;border-radius:8px;">
-    <iframe
-      src="https://assets.pinterest.com/ext/embed.html?id=95279348360194582"
-      loading="lazy" scrolling="no" title="Pinterest embed"
-      style="position:absolute;inset:0;width:100%;height:100%;border:0;">
-    </iframe>
-  </div>
+<div style="display:flex;justify-content:center; align-items:center;height:100;margin:0;">
+  <img src="https://i.pinimg.com/originals/ff/08/65/ff0865b841977de534f5b6a865f992d0.gif" alt="GIF" style="max-width:100%;height:auto;">
 </div>
- 
  <img align="right" alt="luffy" width = "300" src="https://media.giphy.com/media/l3mZsZK6buIJA3Zv2/giphy.gif">
  
 👾 I’m currently working on [Machine learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA__branded_FTCOF__arte&utm_content=B2C&campaignid=18216928764&adgroupid=141296025792&device=c&keyword=coursera%20machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=619458216884&hide_mobile_promo) 
