@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Nikita%20Reddy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Nikita%20Reddy&fontFamily=JetBrains%20Mono&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Python+Developer;Agentic+AI+Builder;Future+Tech+Founder"/>
 
