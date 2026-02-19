@@ -10,6 +10,7 @@
 # 🌌 About Me
 
 <img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5NXdjcXI3dGloaWM5dmowenUyOXg1NDZ5ZWdjNzNydzR3MGxlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/61et09rpNxq0bapTZ9/giphy.gif"/>
+<br>
 
 🌷 Building **AI Systems & Autonomous Agents**
 
@@ -25,7 +26,9 @@
 
 🌷 Goal: Build **next-gen AI products**
 
----
+<br>
+
+
   
 ##  Tech Stack
 
