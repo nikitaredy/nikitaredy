@@ -16,7 +16,7 @@
 
 🌷 Passionate about **LLMs, Full Stack, and Future Tech**
 
-🌷 Founder @ CoSync — turning chaos into coordination.
+🌷 Building @ CoSync — turning chaos into coordination.
 
 🌷 Currently working on:
 
