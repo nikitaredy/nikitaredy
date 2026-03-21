@@ -175,7 +175,7 @@
 ---
 ## Connect with me  
 <p align="center">
-<a href="https://github.com/nikitaredy"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://www.linkedin.com/in/n1kye/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.kaggle.com/itsnicosikee"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a><a href="https://www.behance.net/nicororbin12"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/n1kye/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.kaggle.com/itsnicosikee"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a><a href="https://www.behance.net/n1kye-re"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </p>
   
   
