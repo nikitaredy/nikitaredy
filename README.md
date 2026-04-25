@@ -1,6 +1,8 @@
 <div align="center">
 
 **Portfolio →** [n1kye.dev](https://n1kye.dev)
+**Twitter →** [n1kye_re](https://x.com/n1kye_re)
+
 
 </div>
 
