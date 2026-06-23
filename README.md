@@ -3,6 +3,8 @@
 **Portfolio →** [n1kye.dev](https://n1kye.dev)
 <br>
 **Twitter →** [n1kye_re](https://x.com/n1kye_re)
+<br>
+**LinkedIn →** [n1kye](https://www.linkedin.com/in/n1kye/)
 
 
 </div>
